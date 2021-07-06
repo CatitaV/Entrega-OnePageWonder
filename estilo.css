@@ -1,0 +1,68 @@
+
+
+.box {
+	text-align: center;
+	text-orientation: upright;
+	font-size: xx-large;
+	font-family: sans-serif bold;
+	font-style: italic;
+	color: white;
+	margin-top: 200px;
+}
+header {
+    background-image: url(https://www.muycomputerpro.com/zona-impresion-profesional/wp-content/uploads/2016/02/color.jpeg);
+	background-position: top;
+	background-size:100% 90%;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	position: relative;
+	padding-bottom: 7rem;
+	padding-top: calc(7rem + 72px);
+	
+	
+
+
+}
+
+.navbar-custom {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgba(0, 0, 0, 0.7);}
+
+    
+    
+
+    .parrafo {
+    	font-family: sans-serif bold;
+    	font-size: medium;
+    	color: black;
+    }
+
+.display-4 {
+	font-family: sans-serif bold;
+    	color: black;
+}
+
+.w {
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.x {
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.y {
+	margin-right: 2%;
+	margin-left: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+    
